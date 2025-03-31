@@ -1,4 +1,6 @@
-## Olá! Eu sou o Denis Willian 🖐️
+## Olá! Eu sou *Denis Willian* 🖐️
+* **Graduando em Análise e Desenvolvimento de Sistemas - IFPB** 📚​
+* **Tecnico em informática - IFPB** ​🎓​
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/denis_wll/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-willian-079684256/)
